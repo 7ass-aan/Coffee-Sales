@@ -1,40 +1,54 @@
 # ☕ Coffee Shop Sales Analysis
 
-An Excel-based data analysis project focused on analyzing coffee shop sales and extracting meaningful business insights from the data.
+An Excel-based data analysis project focused on analyzing coffee shop sales data and extracting meaningful business insights.
 
 ## 📊 Project Overview
 
-This project analyzes coffee shop sales data using **Microsoft Excel** to understand sales performance, identify trends, and provide useful insights that can support business decision-making.
+This project analyzes a coffee shop sales dataset containing transaction information such as dates, payment methods, sales amounts, and coffee products.
+
+The goal is to transform raw sales data into useful insights that can support business decision-making.
 
 ## 🛠️ Tools & Skills
 
 * Microsoft Excel
-* Data Cleaning
+* Data Cleaning & Transformation
 * PivotTables
 * Data Analysis
 * Data Visualization
 * Dashboard Design
 * Business Insights
 
+## 🔄 Project Workflow
+
+**Raw Data → Data Cleaning & Transformation → Analysis → Dashboard → Insights**
+
 ## 🔍 Analysis
 
-The project focuses on exploring sales performance through different business dimensions, identifying patterns and trends, and presenting the results in an easy-to-understand dashboard.
+The analysis explores sales performance across different aspects of the business, including:
+
+* Sales trends over time
+* Coffee product performance
+* Revenue analysis
+* Payment methods
+* Overall sales performance
 
 ## 📈 Dashboard
 
-The final analysis is presented through an interactive Excel dashboard designed to make the main findings easier to understand and explore.
-
-## 🎯 Project Goals
-
-* Analyze coffee shop sales performance
-* Identify important sales trends
-* Explore the data from different perspectives
-* Transform raw data into useful business insights
-* Build practical experience with Excel for Data Analysis
+An interactive Excel dashboard was created to present the main findings and make the results easier to understand.
 
 ## 📁 Project Files
 
-* `Coffee Shop Sales.xlsx` — Excel workbook containing the analysis and dashboard.
+* `Data.csv` — Raw sales data used for the analysis.
+* `Coffee Shop Sales.xlsx` — Excel workbook containing the cleaned data, analysis, and dashboard.
+
+## 🎯 Project Goals
+
+* Practice working with real-world sales data
+* Clean and transform raw data using Excel
+* Analyze sales performance
+* Identify trends and patterns
+* Create a clear and useful dashboard
+* Turn raw data into actionable business insights
 
 ## 👤 Author
 
