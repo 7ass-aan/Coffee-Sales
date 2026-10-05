@@ -38,7 +38,7 @@ An interactive Excel dashboard was created to present the main findings and make
 
 ## 📁 Project Files
 
-* `Data.csv` — Raw sales data used for the analysis.
+* `Raw_Data.csv` — Raw sales data used for the analysis.
 * `Coffee Shop Sales.xlsx` — Excel workbook containing the cleaned data, analysis, and dashboard.
 
 ## 🎯 Project Goals
